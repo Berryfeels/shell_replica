@@ -1,4 +1,4 @@
-#include "minishell.c"
+#include "../include/minishell.h"
 
 void    update_env(const char *key, const char *value)
 {

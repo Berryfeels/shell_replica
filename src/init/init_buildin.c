@@ -1,4 +1,4 @@
-#include "minishell.h"
+#include "../../include/minishell.h"
 
 static void add_builtin(bld_in **head, char *name, void (*func)(char **))
 {

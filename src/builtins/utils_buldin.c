@@ -1,4 +1,4 @@
-#include "minishell.h"
+#include "../include/minishell.h"
 
 int execute_command(char **av, bld_in *builtins)
 {
